@@ -6,4 +6,6 @@ Nguyễn Tùng Lâm - BCS230050
 Kiểm tra Can't Unsee.space
 Điểm: 7030
 
-https://github.com/Lambinnnguyen/SOFT4003-Kiem_Thu_Phan_Mem/blob/6e828c0002533c3c8502ba96875859f918cce3a7/Bai_tap/BT_CantUnsee.png
+<img width="1905" height="954" alt="BT_CantUnsee" src="https://github.com/user-attachments/assets/cdae69be-5139-4e73-a1c4-ca2ef31458af" />
+
+
